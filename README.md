@@ -10,4 +10,4 @@ COURSE: BSIT
 
 SECTION: IT2R5
 
-WEBSITE: https://eeoleir.github.io/BARBER-LOGIN/index.html
+WEBSITE: https://khenpaler.github.io/BUSINESS-BARBER_W_LOGIN/
